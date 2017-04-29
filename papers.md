@@ -1,6 +1,6 @@
 # Deep Learning Papers Reading Roadmap
 
-*Original list created by [songrotek](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+*Original list created by [songrotek](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)*
 
 This is a list of papers (roadmap) to read as a newcomer to the Deep Learning
 
